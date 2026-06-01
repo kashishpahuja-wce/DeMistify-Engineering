@@ -1,0 +1,6 @@
+{
+  "name": "deMistify",
+  "description": "An interactive, gamified engineering skill roadmap, personalized AI study assistant, and collaborative peer-to-peer workspace for technical excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
